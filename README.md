@@ -27,27 +27,25 @@ Express: Express.js is used to build the web server, routing requests, and handl
 MongoDB: The robust MongoDB database stores user profiles, chat room data, and message histories, ensuring reliable data storage and retrieval.
 -------------------------------------------------------------------------------
 Installation
+
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/your-username/ConnectHub.git
+
 cd ConnectHub
 ----------------------------
-Install dependencies:
+Install dependencies: npm install
 
-Copy code
-npm install
 Set up MongoDB:
 
 Make sure you have MongoDB installed and running on your system.
 Update the MongoDB connection URL in config.js.
-Start the server:
 
-sql
-Copy code
-npm start
-Open your browser and visit http://localhost:3000 to start using ConnectHub.
+Start the server: npm start
+
+Open your browser and visit 
+http://localhost:3000 
+to start using ConnectHub.
 ----------------------------------------------
 Contributing
 We welcome contributions to make ConnectHub even better! If you'd like to contribute, please follow our contribution guidelines.
