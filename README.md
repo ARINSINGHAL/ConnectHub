@@ -15,6 +15,7 @@ Global Chat Room: Upon signing up, you automatically become part of a global cha
 Dynamic Interface: The user-friendly interface is designed for smooth navigation, making it easy to switch between different chat rooms and engage with various users.
 
 Message History: Forgot what was discussed earlier? No worries! ConnectHub stores your chat history, allowing you to refer back to previous conversations.
+
 --------------------------------------------------------
 Technologies Used: 
 
@@ -25,6 +26,7 @@ Socket.io: Leveraging WebSockets, Socket.io enables instant bi-directional commu
 Express: Express.js is used to build the web server, routing requests, and handling various endpoints with ease.
 
 MongoDB: The robust MongoDB database stores user profiles, chat room data, and message histories, ensuring reliable data storage and retrieval.
+
 -------------------------------------------------------------------------------
 Installation
 
@@ -46,6 +48,7 @@ Start the server: npm start
 Open your browser and visit 
 http://localhost:3000 
 to start using ConnectHub.
+
 ----------------------------------------------
 Contributing
 We welcome contributions to make ConnectHub even better! If you'd like to contribute, please follow our contribution guidelines.
