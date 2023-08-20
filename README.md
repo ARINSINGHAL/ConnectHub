@@ -10,7 +10,7 @@ Real-time Chatting: Engage in lively conversations with other users in real-time
 
 User Sign-Up: Create your account and join the ConnectHub community. Your unique username and profile picture will help you stand out in the chat rooms.
 
-Chat Rooms: Upon signing up, you automatically become part of a global chat room where you can connect with users from all walks of life.
+Global Chat Room: Upon signing up, you automatically become part of a global chat room where you can connect with users from all walks of life.
 
 Dynamic Interface: The user-friendly interface is designed for smooth navigation, making it easy to switch between different chat rooms and engage with various users.
 
