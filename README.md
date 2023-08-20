@@ -16,6 +16,9 @@ Dynamic Interface: The user-friendly interface is designed for smooth navigation
 
 Message History: Forgot what was discussed earlier? No worries! ConnectHub stores your chat history, allowing you to refer back to previous conversations.
 
+![image](https://github.com/ARINSINGHAL/ConnectHub/assets/98871182/9a2dc72d-912a-49ea-b966-22df31f34053)
+
+
 --------------------------------------------------------
 Technologies Used: 
 
